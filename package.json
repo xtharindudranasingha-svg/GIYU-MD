@@ -1,14 +1,4 @@
 {
-  "name":"GIYU-MD",
-  "version":"1.0.0",
-  "description":"A WhatsApp bot created using Node.js",
-  "main":"start.js",
-  "type": "commonjs",
-  "scripts": {
-    "start":"pm2 start start.js --deep-monitoring --attach --name GIYU-MD",
-    "stop":"pm2 stop GIYU-MD",
-    "restart":"pm2 restart GIYU-MD"
-  {
   "name": "GIYU-MD",
   "version": "4",
   "description": "A Simple WhatsApp bot created By Tharindu ranasingha",
