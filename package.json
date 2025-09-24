@@ -1,6 +1,6 @@
 {
   "name": "GIYU-MD",
-  "version": "4",
+  "version": "1",
   "description": "A Simple WhatsApp bot created By Tharindu ranasingha",
   "main": "start.js",
   "scripts": {
